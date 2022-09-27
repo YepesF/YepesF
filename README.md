@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋, Soy Andrés Felipe Yepes Garcés</h1>
 <h3 align="center">Programador Full Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yepesf&label=Profile%20views&color=0e75b6&style=flat" alt="yepesf" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yepesf" alt="yepesf" /></a> </p>
-
 - 🔭 Colaboré en el proyecto [LiberiaHenry](https://henry-library.netlify.app/)
 
 - 🌱 Estoy aprendiendo **Python, Material UI, Tailwind CSS**
@@ -16,6 +12,11 @@
 - 📫 Contactame **yepilef@gmail.com**
 
 - ⚡ Hobbies **Me encanta jugar Ping-Pong y Ajedrez**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yepesf&label=Profile%20views&color=0e75b6&style=flat" alt="yepesf" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yepesf" alt="yepesf" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
