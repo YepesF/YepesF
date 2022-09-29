@@ -32,12 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yepesf&show_icons=true&locale=en" alt="yepesf" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yepesf&" alt="yepesf" />
-  <br>
-  <a href="https://emanueljuri@gmail.com">
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
-      emanueljuri@gmail.com
-    </a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yepesf&" alt="yepesf" /></p>
 
