@@ -1,22 +1,21 @@
 ![portada](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
 # **Hola, Soy [Felipe Yepes](https://www.linkedin.com/in/YepesF/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
-<h3 align="center">Programador Full Stack</h3>
+
+<h2 align="center">Programador Full Stack</h2>
 
 - 🔭 Colaboré en el proyecto [LiberiaHenry](https://henry-library.netlify.app/)
 
-- 🌱 Estoy aprendiendo **Python, Material UI, Tailwind CSS**
-
-- 👯 Realicé el proyecto individual [HenryFood](#)
+- 💯 Realicé el proyecto individual [HenryFood](#)
 
 - 💬 Sobre mi **JavaScript, HTML, CSS, React, Redux, NodeJS, Sequelize, Chakra UI, GIT**
 
-- 📫 Contactame **yepilef@gmail.com**
+- 🌱 Estoy aprendiendo **Python, Material UI, Tailwind CSS**
 
 - ⚡ Hobbies **Me encanta jugar Ping-Pong y Ajedrez**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yepesf&label=Profile%20views&color=0e75b6&style=flat" alt="yepesf" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yepesf&label=Profile%20views&color=0e75b6&style=flat" alt="yepesf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yepesf" alt="yepesf" /></a> </p>
 
