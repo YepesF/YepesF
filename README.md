@@ -2,7 +2,7 @@
 
 # **Hola, Soy [Felipe Yepes](https://www.linkedin.com/in/YepesF/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
-<h2 align="center">Programador Full Stack</h2>
+<h3 align="center">Programador Full Stack</h3>
 
 - 🔭 Colaboré en el proyecto [LiberiaHenry](https://henry-library.netlify.app/)
 
