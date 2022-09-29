@@ -10,7 +10,7 @@
 
 <h3 align="center">Programador Full Stack</h3>
 
-Desde niño siempre estuve interesado en los sistemas, estudie una tecnología en aras de afianzar mis gustos y desde ese momento no se ha detenido mi hambre por adquirir mas y mas conocimientos relacionados con el mundo IT, ahora vi la oportunidad de estudiar Full Stack Developer y me encantó JavaScript, HTML, CSS, React, Redux, Node.js, Postgres, SQL. Es un mundo increíble del cual quiero hacer parte.<br>
+Desde niño siempre estuve interesado en los sistemas, estudie una tecnología en aras de afianzar mis gustos y desde ese momento no se ha detenido mi hambre por adquirir mas y mas conocimientos relacionados con el mundo IT, ahora vi la oportunidad de estudiar Full Stack Developer y me encantó JavaScript, HTML, CSS, React, Redux, NodeJS, Sequelize,  Postgres, SQL. Es un mundo increíble del cual quiero hacer parte.<br>
 <br>
 A cada empresa que he llegado dejo todo de mi, he solucionado problemas complejos, me encanta la automatización de procesos, ayudar a los demás, el aprendizaje continuo, adquirir nuevas tecnologías y por sobre todo el trabajo en equipo es lo que más me encanta, debido a que es el motor que impulsa proyectos más allá de sus alcances.
 
@@ -21,7 +21,7 @@ A cada empresa que he llegado dejo todo de mi, he solucionado problemas complejo
 
 - 💯 Realicé el proyecto individual [HenryFood](https://henryfood.netlify.app/)
 
-- 💬 Sobre mi **JavaScript, HTML, CSS, React, Redux, NodeJS, Sequelize, Chakra UI, GIT**
+- 💬 Sobre mi **JavaScript, HTML, CSS, React, Redux, NodeJS, Sequelize,  Postgres, SQL, Chakra UI, GIT**
 
 - 🌱 Estoy aprendiendo **Python, Material UI, Tailwind CSS**
 
@@ -126,13 +126,33 @@ A cada empresa que he llegado dejo todo de mi, he solucionado problemas complejo
   </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yepesf" alt="yepesf" /></a> </p>
+<br>
+<br>
 
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yepesf" alt="yepesf" />
+  </a> 
+</p>
 
+<br>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yepesf&show_icons=true&locale=en&layout=compact" alt="yepesf" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yepesf&show_icons=true&locale=en&layout=compact" alt="yepesf" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yepesf&show_icons=true&locale=en" alt="yepesf" /></p>
+<br>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yepesf&" alt="yepesf" /></p>
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yepesf&show_icons=true&locale=en" alt="yepesf" />
+</p>
 
+<br>
+<br>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yepesf&" alt="yepesf" />
+</p>
