@@ -20,12 +20,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yepesf" alt="yepesf" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yepesf/" target="blank">
+<a href="https://linkedin.com/in/yepesf/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"     alt="https://www.linkedin.com/in/yepesf/" height="30" width="40" />
   </a>
-  <a href="https://emanueljuri@gmail.com" target="blank">
+  <a href="https://emanueljuri@gmail.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg" alt="https://emanueljuri@gmail.com" height="30" width="40"/>
   </a>
 </p>
