@@ -139,14 +139,14 @@ A cada empresa que he llegado dejo todo de mi, he solucionado problemas complejo
 <br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yepesf&show_icons=true&locale=en&layout=compact" alt="yepesf" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yepesf&show_icons=true&locale=en" alt="yepesf" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yepesf&" alt="yepesf" />
 </p>
 
 <br>
 <br>
 
 <p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yepesf&show_icons=true&locale=en" alt="yepesf" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yepesf&" alt="yepesf" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yepesf&show_icons=true&locale=en&layout=compact" alt="yepesf" />
 </p>
