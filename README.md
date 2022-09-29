@@ -10,7 +10,7 @@
 
 <h3 align="center">Programador Full Stack</h3>
 
-Desde niño siempre estuve interesado en los sistemas, estudie una tecnología en aras de afianzar mis gustos y desde ese momento no se ha detenido mi hambre por adquirir mas y mas conocimientos relacionados con el mundo IT, ahora vi la oportunidad de estudiar Full Stack Developer y me encantó JavaScript, HTML, CSS, React, Redux, Node.js, Postgres, SQL. Es un mundo increíble del cual quiero hacer parte.
+Desde niño siempre estuve interesado en los sistemas, estudie una tecnología en aras de afianzar mis gustos y desde ese momento no se ha detenido mi hambre por adquirir mas y mas conocimientos relacionados con el mundo IT, ahora vi la oportunidad de estudiar Full Stack Developer y me encantó JavaScript, HTML, CSS, React, Redux, Node.js, Postgres, SQL. Es un mundo increíble del cual quiero hacer parte.<br>
 <br>
 A cada empresa que he llegado dejo todo de mi, he solucionado problemas complejos, me encanta la automatización de procesos, ayudar a los demás, el aprendizaje continuo, adquirir nuevas tecnologías y por sobre todo el trabajo en equipo es lo que más me encanta, debido a que es el motor que impulsa proyectos más allá de sus alcances.
 
