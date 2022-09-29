@@ -147,6 +147,6 @@ A cada empresa que he llegado dejo todo de mi, he solucionado problemas complejo
 <br>
 <br>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yepesf&show_icons=true&locale=en&layout=compact" alt="yepesf" />
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yepesf&show_icons=true&locale=en&layout=compact" alt="yepesf" />
 </p>
