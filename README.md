@@ -3,34 +3,34 @@
 ![portada](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
 <h1 align="center">
-  Hola, Soy 
+  Hi, I'm 
   <a href="https://www.linkedin.com/in/YepesF/">Felipe Yepes</a>
   <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 </h2> 
 
-<h3 align="center">Programador Full Stack</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-Desde niño siempre estuve interesado en los sistemas, estudie una tecnología en aras de afianzar mis gustos y desde ese momento no se ha detenido mi hambre por adquirir mas y mas conocimientos relacionados con el mundo IT, ahora vi la oportunidad de estudiar Full Stack Developer y me encantó JavaScript, HTML, CSS, React, Redux, NodeJS, Sequelize,  Postgres, SQL. Es un mundo increíble del cual quiero hacer parte.<br>
+Since I was a child I was always interested in systems, I studied a technology in order to strengthen my tastes and since then my hunger for acquiring more and more knowledge related to the IT world has not stopped, now I saw the opportunity to study Full Stack Developer and I loved JavaScript, HTML, CSS, React, Redux, NodeJS, Sequelize, Postgres, SQL. It's an amazing world that I want to be part of.<br>
 <br>
-A cada empresa que he llegado dejo todo de mi, he solucionado problemas complejos, me encanta la automatización de procesos, ayudar a los demás, el aprendizaje continuo, adquirir nuevas tecnologías y por sobre todo el trabajo en equipo es lo que más me encanta, debido a que es el motor que impulsa proyectos más allá de sus alcances.
+I have solved complex problems, I love process automation, helping others, continuous learning, acquiring new technologies and above all, teamwork is what I love the most, because it is the engine that drives projects beyond their scope.
 
 <br>
 <br>
 
-- 🔭 Colaboré en el proyecto [LiberiaHenry](https://henry-library.netlify.app/)
+- 🔭 I collaborated in the project [LiberiaHenry](https://henry-library.netlify.app/)
 
-- 💯 Realicé el proyecto individual [HenryFood](https://henryfood.netlify.app/)
+- 💯 Individual project [HenryFood](https://henryfood.netlify.app/)
 
-- 💬 Sobre mi **JavaScript, HTML, CSS, React, Redux, NodeJS, Sequelize,  Postgres, SQL, Chakra UI, GIT**
+- 💬 About me **JavaScript, HTML, CSS, React, Redux, NodeJS, Sequelize,  Postgres, SQL, Chakra UI, GIT**
 
-- 🌱 Estoy aprendiendo **Python, Material UI, Tailwind CSS**
+- 🌱 Learning **Python, Material UI, Tailwind CSS**
 
 - ⚡ Hobbies **Me encanta jugar Ping-Pong y Ajedrez**
 
 <br>
 <br>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
   
@@ -116,7 +116,7 @@ A cada empresa que he llegado dejo todo de mi, he solucionado problemas complejo
 
 </p>
 
-<h3 align="left">Contactame:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yepesf/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"     alt="https://www.linkedin.com/in/yepesf/" height="30" width="40" />
